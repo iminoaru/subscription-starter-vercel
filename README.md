@@ -1,4 +1,4 @@
-# Next.js Subscription Payments Starter
+# Next.js, Stripe Subscription Payments Starter Demo
 
 The all-in-one starter kit for high-performance SaaS applications.
 
